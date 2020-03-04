@@ -1,6 +1,9 @@
 # Lens Flare Detection
 
-
+## Requirements
+- Python 3
+- Python packages listed in `requirements.txt`
+- `jupyter` if you wish to run the notebook locally
 
 ## Installation
 The required python packages are listed in `requirements.txt`. We can install them using 
